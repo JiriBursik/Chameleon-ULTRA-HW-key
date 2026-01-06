@@ -1,4 +1,5 @@
 =====================================
+
                       CHAMELEON HW KEY - AUTOMATED TOOL
 
 [ CORE CONCEPT: THE HARDWARE KEY ]
@@ -38,6 +39,7 @@ password doesn't stay in the memory.
 - Diagnostics: Command-line output for troubleshooting.
 
 =====================================
+
                            INSTRUCTIONS: WINDOWS 11 
                          (Compiled Executable Version)
 
@@ -66,6 +68,7 @@ password doesn't stay in the memory.
    and press the [ENTER] key. Alternatively, select "Exit" from the tray menu.
    
 =====================================
+
                   HOW TO START AUTOMATICALLY ON WINDOWS LOGIN
 
 To have the application start automatically when you log in, follow these steps:
@@ -88,6 +91,7 @@ To have the application start automatically when you log in, follow these steps:
    you just opened.
 
 =====================================
+
                           INSTRUCTIONS: PYTHON VERSION
                           (Source Code)
 
@@ -110,6 +114,7 @@ To have the application start automatically when you log in, follow these steps:
 2. Follow the usage instructions in the Windows 11 section above.
 
 =====================================
+
                                 TROUBLESHOOTING
 
 [1] Application crashes on exit
@@ -130,4 +135,4 @@ To have the application start automatically when you log in, follow these steps:
     Ensure the application has permission to write to "chameleon_config.json" 
     in the same folder as the executable/script.
 
-==============================================================================
+=====================================
