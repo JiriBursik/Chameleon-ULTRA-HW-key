@@ -1,6 +1,6 @@
 =====================================
 
-                      CHAMELEON HW KEY - AUTOMATED TOOL
+CHAMELEON HW KEY - AUTOMATED TOOL
 
 [ CORE CONCEPT: THE HARDWARE KEY ]
 The main idea behind this project is to utilize the Chameleon device not just 
@@ -40,8 +40,8 @@ password doesn't stay in the memory.
 
 =====================================
 
-                           INSTRUCTIONS: WINDOWS 11 
-                         (Compiled Executable Version)
+INSTRUCTIONS: WINDOWS 11 
+(Compiled Executable Version)
 
 1. LOCATE THE FILE:
    Download "Chameleon_HW_key.exe".
@@ -69,7 +69,7 @@ password doesn't stay in the memory.
    
 =====================================
 
-                  HOW TO START AUTOMATICALLY ON WINDOWS LOGIN
+HOW TO START AUTOMATICALLY ON WINDOWS LOGIN
 
 To have the application start automatically when you log in, follow these steps:
 
@@ -92,8 +92,8 @@ To have the application start automatically when you log in, follow these steps:
 
 =====================================
 
-                          INSTRUCTIONS: PYTHON VERSION
-                          (Source Code)
+INSTRUCTIONS: PYTHON VERSION
+(Source Code)
 
 [ PREREQUISITES ]
 - Python 3.x installed.
@@ -115,7 +115,7 @@ To have the application start automatically when you log in, follow these steps:
 
 =====================================
 
-                                TROUBLESHOOTING
+TROUBLESHOOTING
 
 [1] Application crashes on exit
     Make sure you exit by pressing ENTER in the console window or using the 
