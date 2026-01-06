@@ -1,6 +1,5 @@
-==============================================================================
+=====================================
                       CHAMELEON HW KEY - AUTOMATED TOOL
-==============================================================================
 
 [ CORE CONCEPT: THE HARDWARE KEY ]
 The main idea behind this project is to utilize the Chameleon device not just 
@@ -38,10 +37,9 @@ password doesn't stay in the memory.
 - Persistent Settings: Remembers your Slot, Frequency, and Device choice.
 - Diagnostics: Command-line output for troubleshooting.
 
-==============================================================================
+=====================================
                            INSTRUCTIONS: WINDOWS 11 
                          (Compiled Executable Version)
-==============================================================================
 
 1. LOCATE THE FILE:
    Download "Chameleon_HW_key.exe".
@@ -67,9 +65,8 @@ password doesn't stay in the memory.
    To close the application properly, click into the black console window 
    and press the [ENTER] key. Alternatively, select "Exit" from the tray menu.
    
-==============================================================================
+=====================================
                   HOW TO START AUTOMATICALLY ON WINDOWS LOGIN
-==============================================================================
 
 To have the application start automatically when you log in, follow these steps:
 
@@ -90,10 +87,9 @@ To have the application start automatically when you log in, follow these steps:
    Move (cut and paste) the newly created shortcut into the Startup folder 
    you just opened.
 
-==============================================================================
+=====================================
                           INSTRUCTIONS: PYTHON VERSION
                           (Source Code)
-==============================================================================
 
 [ PREREQUISITES ]
 - Python 3.x installed.
@@ -113,9 +109,8 @@ To have the application start automatically when you log in, follow these steps:
 
 2. Follow the usage instructions in the Windows 11 section above.
 
-==============================================================================
+=====================================
                                 TROUBLESHOOTING
-==============================================================================
 
 [1] Application crashes on exit
     Make sure you exit by pressing ENTER in the console window or using the 
